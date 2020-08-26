@@ -18,9 +18,9 @@
 
 ## 目录结构
 2.0生成目录结构</br>
-![image](https://github.com/yxyinxiao07/Web-page-exercises/blob/master/img/w3c.jpg)</br>
+![image](https://github.com/yxyinxiao07/vue-study/blob/master/img/1.jpg)</br>
 3.0目录结构</br>
-![image](https://github.com/yxyinxiao07/Web-page-exercises/blob/master/img/w3c.jpg)</br>
+![image](https://github.com/yxyinxiao07/vue-study/blob/master/img/2.jpg)</br>
 从CLI 3的整个项目结构我们可以发现，这个结构很简单，没有相关的配置文件或复杂的目录结构。CLI 3仅生成构建应用程序所需的文件，让使用者不用关心这些工具的具体配置，从而降低了工具的使用难度。
 
 CLI 3启动方式是内置服务 vue-cli-service serve  
@@ -30,4 +30,4 @@ CLI 2启动方式是webpack-dev-server --inline --progress --config build/webpac
 
 ## 图形化界面
 安装好了CLI 3的前提下，执行vue ui命令 ，会自动在浏览器打开图形界面</br>
-![image](https://github.com/yxyinxiao07/Web-page-exercises/blob/master/img/w3c.jpg)</br>
+![image](https://github.com/yxyinxiao07/vue-study/blob/master/img/3.jpg)</br>
